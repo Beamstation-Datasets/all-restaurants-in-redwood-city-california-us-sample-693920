@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4a679cdf-e385-41db-8fa2-7d833ad84eb3",
+  "id_short": 693920,
+  "published_at": "2026-04-14T19:44:07Z",
+  "repo_name": "all-restaurants-in-redwood-city-california-us-sample-693920",
+  "sample_asset_name": "beamstation_693920_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/693920/beamstation_693920_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "87fe7cb74877846bf34ed8a0d6d5fcbe3de81eb48cc1b8d5375266d4b9b2e90f",
+  "sample_size_bytes": 92992,
+  "total_records": 214
+}
